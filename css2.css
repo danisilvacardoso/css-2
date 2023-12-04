@@ -1,0 +1,26 @@
+
+* { 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+width: 200vh;
+height: 200vw;
+}
+
+.div-dad {
+    width: 350px;
+    height: 350px;
+    background: #ff1396;
+}
+
+.div-son {
+    width:150px;
+    height:150px;
+    background: #ffff00;
+    }
+
+ .div-neto {
+    background: #ff0000;
+    width: 100px;
+    height: 100px;
+ }   
